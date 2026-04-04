@@ -6,9 +6,12 @@ A classic Snake game built using **SDL2**, featuring smooth movement, collision 
 ---
 
 ## 🎮 Gameplay Preview
-*(Insert your screenshot here)*
 
-![Gameplay Screenshot](./screenshot.png)
+<img width="1636" height="1034" alt="image" src="https://github.com/user-attachments/assets/75ce521d-2c57-4aaa-a9f9-a96a1e9e5b10" />
+
+<img width="887" height="593" alt="image" src="https://github.com/user-attachments/assets/7b8b4837-57e9-446e-bb5c-79d9ff47743c" />
+
+
 
 ---
 
@@ -80,6 +83,7 @@ g++ main.cpp -o snake.exe -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
 | ←   | Move Left     |
 | →   | Move Right    |
 | ESC | Quit Game     |
+| SHIFT | Speed up    |
 
 ---
 
@@ -114,7 +118,3 @@ This project is open-source and available under the MIT License.
 
 - SDL2 documentation  
 - Online tutorials and forums  
-
-
-## Installation
-Before 
