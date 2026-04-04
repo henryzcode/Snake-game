@@ -5,7 +5,7 @@ A classic Snake game built using **SDL2**, featuring smooth movement, collision 
 
 ---
 
-## 🎮 Gameplay Preview
+## Gameplay Preview
 
 <img width="1636" height="1034" alt="image" src="https://github.com/user-attachments/assets/75ce521d-2c57-4aaa-a9f9-a96a1e9e5b10" />
 
@@ -15,18 +15,18 @@ A classic Snake game built using **SDL2**, featuring smooth movement, collision 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🟩 Grid-based movement
-- 🍎 Food spawning system
-- 📈 Score tracking
-- 💥 Self-collision and wall collision detection
-- 🌀 Smooth movement with frame control
-- 🧠 Simple and clean game logic
+- Grid-based movement
+- Food spawning system
+- Score tracking
+- Self-collision and wall collision detection
+- Smooth movement with frame control
+- Simple and clean game logic
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **C++**
 - **SDL2**
@@ -34,7 +34,7 @@ A classic Snake game built using **SDL2**, featuring smooth movement, collision 
 
 ---
 
-## ⚙️ Installation (Windows)
+## Installation (Windows)
 
 ### 1. Install Dependencies
 
@@ -74,7 +74,7 @@ g++ main.cpp -o snake.exe -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
 
 ---
 
-## 🎯 Controls
+## Controls
 
 | Key | Action        |
 |-----|--------------|
@@ -87,7 +87,7 @@ g++ main.cpp -o snake.exe -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - The snake is represented as a vector of segments.
 - Each frame updates the snake’s position based on input.
@@ -98,23 +98,23 @@ g++ main.cpp -o snake.exe -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
-- 🎨 Better graphics / textures
-- 🔊 Sound effects
-- 🌐 High score system
-- 🌀 Portals or special mechanics
-- ⚡ Difficulty scaling
+- Better graphics / textures
+- Sound effects
+- High score system
+- Portals or special mechanics
+- Difficulty scaling
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - SDL2 documentation  
 - Online tutorials and forums  
