@@ -88,6 +88,14 @@ g++ main.cpp -o snake.exe -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
 
 ---
 
+## Debug
+- if you see the "Windows is protecting your pc screen, do the following shown in the picture
+<img width="331" height="152" alt="download" src="https://github.com/user-attachments/assets/68598ba1-4b1c-4d7c-a99c-5a8d3eb02ba2" />
+
+- if you controls does not work, press the snake_game screen to fix the problem
+- if you notice any mistakes, please inform me in the comment or a pull request 🙏
+
+
 ## How It Works
 
 - The snake is represented as a vector of segments.
