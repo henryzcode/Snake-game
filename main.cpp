@@ -88,7 +88,11 @@ int main(int argc, char* argv[]) {
     SDL_Renderer* renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
     if (!renderer) return 1;
 
-    TTF_Font* font = TTF_OpenFont("../PixelOperator.ttf", 40);
+    TTF_Font* font = TTF_OpenFont("PixelOperator.ttf", 40);
+    if (!font) {
+        std::cout << "Failed to load font! SDL_ttf Error: " << TTF_GetError() << std::endl;
+        return 1; 
+    }
 
     Uint64 port_delay_time = time(gen);
     Uint64 start_time = 0;
