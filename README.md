@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/26478691/README.md)
 
-[snake1.zip](https://github.com/user-attachments/files/26478691/snake1.zip)
+[snake1.zip](snake1.zip)
 # 🐍 Snake Game (Windows)
 
 A classic Snake game built using **SDL2**, featuring smooth movement, collision detection, and a simple scoring system. This project was created to practice game loops, rendering, and real-time input handling in C++.
