@@ -37,6 +37,10 @@ A classic Snake game built using **SDL2**, featuring smooth movement, collision 
 
 ## Installation (Windows)
 
+if you download the .exe in the realease, just run it directly.
+
+if you downloaded the source code, follow the steps below.
+
 ### 1. Install Dependencies
 
 Download and install:
